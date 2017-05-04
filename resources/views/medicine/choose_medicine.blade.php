@@ -55,7 +55,7 @@
 				<table class="table table-striped table-bordered">
 				<tbody>
 				<tr>
-					<td colspan="7"><h1 style="text-align: center;">BHOJAN PHARMARCY</h1></td>
+					<td colspan="7"><h1 style="text-align: center;">Mary's PHARMARCY</h1></td>
 				</tr>
 				<tr>
 					<td colspan="7">
